@@ -5,3 +5,9 @@ background: deepskyblue;
 			width: 50%;
 			height: auto;
 		}
+#myStyle{
+			background-color: aliceblue;
+			color: black;
+			padding: 10px;
+			text-align: center;
+		}
